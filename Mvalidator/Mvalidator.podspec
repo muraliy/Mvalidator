@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/muraliy/Mvalidator"
   spec.license      = "MIT"
   spec.author             = { "muraliy" => "ymurali.iapps@gmail.com" }
-  spec.platform     = :ios, "13.7"
+  spec.platform     = :ios, "11.0"
   spec.source       = { :git => "https://github.com/muraliy/Mvalidator.git", :tag => spec.version }
   spec.source_files  =  "Mvalidator/**/*.{swift}"
   spec.swift_versions = "5.0"
